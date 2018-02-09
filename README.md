@@ -2,7 +2,7 @@
 
 ### What is it? 
 
-- Almost 838k first name records manually matched to a male or female gender by professional, trained responders. 
+- Almost 838k first name records manually matched to a male or female gender by professional, trained responders.
 
 - An aggregated report of 6,000+ unique first names with their male and female matching percentages and total matches. 
 
@@ -18,3 +18,7 @@ t  = total samples
 m  = % of t labeled male
 f  = % of t labeled female
 ```
+
+### Authors
+
+The development team at https://conveyour.com
